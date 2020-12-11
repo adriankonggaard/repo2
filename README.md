@@ -8,4 +8,7 @@ Nyt commit
 TEST
 #
 TEST igen
-£TEST igen igen
+#
+TEST igen igen
+#
+TEST igen igen igen
